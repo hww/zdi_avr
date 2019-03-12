@@ -1,6 +1,6 @@
 OBJS=args.o os.o file.o load.o tiva.o msp430.o stm32.o z180.o ez80.o lpc17xx.o
 BINS=
-TARGET=MCUload
+TARGET=mcuload
 TOOL=
 CPU=
 
